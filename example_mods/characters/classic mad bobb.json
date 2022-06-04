@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "babb an joe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob mad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob mad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob mad right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tantrum-bob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tantrum",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

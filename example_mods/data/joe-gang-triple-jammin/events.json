@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "joeStudioNoBob",
+		"player1": "headsetBF",
+		"player2": "joe insanity",
+		"player3": null,
+		"events": [
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"stupo"
+					],
+					[
+						"Add Camera Zoom",
+						"3",
+						".05"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Add Camera Zoom",
+						"3",
+						".05"
+					],
+					[
+						"Change Character",
+						"1",
+						"bobby"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"stupo"
+					],
+					[
+						"Add Camera Zoom",
+						"3",
+						".05"
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"job"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Add Camera Zoom",
+						"3",
+						".05"
+					],
+					[
+						"Change Character",
+						"1",
+						"stupo"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf chair",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "joe-gang-triple-jammin"
+	}
+}

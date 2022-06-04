@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf_idle_not_hypno_2s instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				74,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf_left_alt instance 1"
+		},
+		{
+			"offsets": [
+				-12,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf_down instance 1"
+		},
+		{
+			"offsets": [
+				-19,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf_up instance 1"
+		},
+		{
+			"offsets": [
+				-3,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf_right_better instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-134
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "gf_down_MISS instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-60
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "gf_right_better_miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "gf_up_MISS instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "gf_left_alt_MISS instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "gf_idle_ok_maybe_shes_hypno_2s instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "gf_idle_ok_shes_hypno_2s instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/Hypno Girlfriend",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-200,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

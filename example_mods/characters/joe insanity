@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "joe insane idle"
+		},
+		{
+			"offsets": [
+				-16,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "joe insane left"
+		},
+		{
+			"offsets": [
+				-53,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "joe insane down"
+		},
+		{
+			"offsets": [
+				-157,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "joe insane right"
+		},
+		{
+			"offsets": [
+				-98,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "joe insane up"
+		},
+		{
+			"offsets": [
+				-21,
+				-40
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "joe insane right"
+		},
+		{
+			"offsets": [
+				98,
+				23
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "joe insane down"
+		},
+		{
+			"offsets": [
+				99,
+				0
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "joe insane up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "joe insane left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joe sheet new",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joeNew",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		-100,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "joeStudioNoBob",
+		"player1": "headsetBF",
+		"player2": "stupo",
+		"player3": null,
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"soap"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Change Character",
+						"1",
+						"soap"
+					]
+				]
+			],
+			[
+				16457.1428571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"stupo"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf chair",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "fuck-you"
+	}
+}

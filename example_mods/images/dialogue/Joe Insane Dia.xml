@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Joe Insane Dia.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="joe idle loop0000" x="10" y="10" width="365" height="555" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0001" x="10" y="10" width="365" height="555" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0002" x="10" y="10" width="365" height="555" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0003" x="385" y="10" width="365" height="554" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0004" x="385" y="10" width="365" height="554" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0005" x="385" y="10" width="365" height="554" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0006" x="760" y="10" width="368" height="552" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0007" x="760" y="10" width="368" height="552" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe idle loop0008" x="760" y="10" width="368" height="552" frameX="0" frameY="0" frameWidth="368" frameHeight="555"/>
+	<SubTexture name="joe talk loop0000" x="1138" y="10" width="386" height="555"/>
+	<SubTexture name="joe talk loop0001" x="1138" y="10" width="386" height="555"/>
+	<SubTexture name="joe talk loop0002" x="1534" y="10" width="374" height="552" frameX="-2" frameY="-3" frameWidth="386" frameHeight="555"/>
+	<SubTexture name="joe talk loop0003" x="1534" y="10" width="374" height="552" frameX="-2" frameY="-3" frameWidth="386" frameHeight="555"/>
+	<SubTexture name="joe talk loop0004" x="10" y="575" width="371" height="551" frameX="0" frameY="-4" frameWidth="386" frameHeight="555"/>
+	<SubTexture name="joe talk loop0005" x="10" y="575" width="371" height="551" frameX="0" frameY="-4" frameWidth="386" frameHeight="555"/>
+</TextureAtlas>

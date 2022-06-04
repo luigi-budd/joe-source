@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tantrum-bob.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="babb an joe idle0000" x="10" y="10" width="478" height="517" frameX="-7" frameY="-5" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0001" x="10" y="10" width="478" height="517" frameX="-7" frameY="-5" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0002" x="498" y="10" width="480" height="522" frameX="-9" frameY="0" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0003" x="498" y="10" width="480" height="522" frameX="-9" frameY="0" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0004" x="988" y="10" width="476" height="517" frameX="-6" frameY="-5" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0005" x="988" y="10" width="476" height="517" frameX="-6" frameY="-5" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0006" x="1474" y="10" width="473" height="518" frameX="-3" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0007" x="1957" y="10" width="473" height="518" frameX="-3" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0008" x="2440" y="10" width="473" height="519" frameX="0" frameY="-3" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0009" x="2440" y="10" width="473" height="519" frameX="0" frameY="-3" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0010" x="2923" y="10" width="473" height="518" frameX="0" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0011" x="3406" y="10" width="473" height="518" frameX="0" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0012" x="10" y="542" width="474" height="518" frameX="0" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="babb an joe idle0013" x="10" y="542" width="474" height="518" frameX="0" frameY="-4" frameWidth="489" frameHeight="522"/>
+	<SubTexture name="bob mad down0000" x="494" y="542" width="444" height="523" frameX="0" frameY="-4" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad down0001" x="494" y="542" width="444" height="523" frameX="0" frameY="-4" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad down0002" x="948" y="542" width="441" height="525" frameX="-3" frameY="-2" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad down0003" x="948" y="542" width="441" height="525" frameX="-3" frameY="-2" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad down0004" x="1399" y="542" width="440" height="527" frameX="-4" frameY="0" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad down0005" x="1399" y="542" width="440" height="527" frameX="-4" frameY="0" frameWidth="444" frameHeight="527"/>
+	<SubTexture name="bob mad left0000" x="1849" y="542" width="454" height="515" frameX="0" frameY="-5" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0001" x="1849" y="542" width="454" height="515" frameX="0" frameY="-5" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0002" x="2313" y="542" width="452" height="517" frameX="-2" frameY="-3" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0003" x="2313" y="542" width="452" height="517" frameX="-2" frameY="-3" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0004" x="2775" y="542" width="452" height="520" frameX="-2" frameY="0" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0005" x="2775" y="542" width="452" height="520" frameX="-2" frameY="0" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0006" x="3237" y="542" width="452" height="520" frameX="-2" frameY="0" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad left0007" x="3237" y="542" width="452" height="520" frameX="-2" frameY="0" frameWidth="454" frameHeight="520"/>
+	<SubTexture name="bob mad right0000" x="10" y="1079" width="454" height="516" frameX="-16" frameY="-3" frameWidth="470" frameHeight="519"/>
+	<SubTexture name="bob mad right0001" x="10" y="1079" width="454" height="516" frameX="-16" frameY="-3" frameWidth="470" frameHeight="519"/>
+	<SubTexture name="bob mad right0002" x="474" y="1079" width="455" height="517" frameX="-15" frameY="-2" frameWidth="470" frameHeight="519"/>
+	<SubTexture name="bob mad right0003" x="474" y="1079" width="455" height="517" frameX="-15" frameY="-2" frameWidth="470" frameHeight="519"/>
+	<SubTexture name="bob mad right0004" x="939" y="1079" width="470" height="519"/>
+	<SubTexture name="bob mad right0005" x="939" y="1079" width="470" height="519"/>
+	<SubTexture name="bob mad up0000" x="1419" y="1079" width="475" height="520" frameX="0" frameY="-1" frameWidth="475" frameHeight="521"/>
+	<SubTexture name="bob mad up0001" x="1419" y="1079" width="475" height="520" frameX="0" frameY="-1" frameWidth="475" frameHeight="521"/>
+	<SubTexture name="bob mad up0002" x="1904" y="1079" width="473" height="521" frameX="0" frameY="0" frameWidth="475" frameHeight="521"/>
+	<SubTexture name="bob mad up0003" x="1904" y="1079" width="473" height="521" frameX="0" frameY="0" frameWidth="475" frameHeight="521"/>
+	<SubTexture name="bob mad up0004" x="2387" y="1079" width="468" height="521" frameX="0" frameY="0" frameWidth="475" frameHeight="521"/>
+	<SubTexture name="bob mad up0005" x="2387" y="1079" width="468" height="521" frameX="0" frameY="0" frameWidth="475" frameHeight="521"/>
+</TextureAtlas>

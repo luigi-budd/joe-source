@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		20
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				2
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "joe talk loop",
+			"idle_name": "joe idle loop"
+		}
+	],
+	"image": "Joe House Dia"
+}

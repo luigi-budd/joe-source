@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF Dia New.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf idle loop0000" x="10" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0001" x="10" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0002" x="10" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0003" x="427" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0004" x="427" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0005" x="427" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0006" x="844" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0007" x="844" y="10" width="407" height="414"/>
+	<SubTexture name="bf idle loop0008" x="844" y="10" width="407" height="414"/>
+	<SubTexture name="bf talk loop0000" x="1261" y="10" width="410" height="420"/>
+	<SubTexture name="bf talk loop0001" x="1261" y="10" width="410" height="420"/>
+	<SubTexture name="bf talk loop0002" x="10" y="440" width="409" height="417" frameX="0" frameY="-3" frameWidth="410" frameHeight="420"/>
+	<SubTexture name="bf talk loop0003" x="10" y="440" width="409" height="417" frameX="0" frameY="-3" frameWidth="410" frameHeight="420"/>
+	<SubTexture name="bf talk loop0004" x="429" y="440" width="408" height="413" frameX="0" frameY="-7" frameWidth="410" frameHeight="420"/>
+	<SubTexture name="bf talk loop0005" x="429" y="440" width="408" height="413" frameX="0" frameY="-7" frameWidth="410" frameHeight="420"/>
+</TextureAtlas>

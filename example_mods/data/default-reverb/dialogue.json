@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "joe house",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow! Nice job Boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf new",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "joe insane",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about we try a harder song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "joe insane",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This next song is my personal favorite."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf new",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee bo bop skell"
+		}
+	]
+}

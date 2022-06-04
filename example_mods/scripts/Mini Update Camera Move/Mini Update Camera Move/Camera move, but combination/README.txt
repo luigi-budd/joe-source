@@ -1,0 +1,1 @@
+combination of health draining, camera move, and dialogue play lolololol

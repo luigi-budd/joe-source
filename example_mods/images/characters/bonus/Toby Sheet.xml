@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toby Sheet.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="toby down0000" x="10" y="10" width="362" height="480" frameX="-1" frameY="0" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0001" x="10" y="10" width="362" height="480" frameX="-1" frameY="0" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0002" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0003" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0004" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0005" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0006" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0007" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby down0008" x="382" y="10" width="360" height="478" frameX="0" frameY="-2" frameWidth="363" frameHeight="480"/>
+	<SubTexture name="toby idle dance0000" x="752" y="10" width="344" height="480" frameX="0" frameY="-9" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0001" x="752" y="10" width="344" height="480" frameX="0" frameY="-9" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0002" x="1106" y="10" width="339" height="481" frameX="-3" frameY="-8" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0003" x="1106" y="10" width="339" height="481" frameX="-3" frameY="-8" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0004" x="1455" y="10" width="337" height="484" frameX="-4" frameY="-5" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0005" x="1455" y="10" width="337" height="484" frameX="-4" frameY="-5" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0006" x="1802" y="10" width="339" height="486" frameX="-4" frameY="-3" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0007" x="1802" y="10" width="339" height="486" frameX="-4" frameY="-3" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0008" x="2151" y="10" width="337" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0009" x="2151" y="10" width="337" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0010" x="2498" y="10" width="335" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0011" x="2498" y="10" width="335" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0012" x="2498" y="10" width="335" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby idle dance0013" x="2498" y="10" width="335" height="489" frameX="-4" frameY="0" frameWidth="344" frameHeight="489"/>
+	<SubTexture name="toby left0000" x="2843" y="10" width="310" height="475" frameX="0" frameY="-4" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0001" x="2843" y="10" width="310" height="475" frameX="0" frameY="-4" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0002" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0003" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0004" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0005" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0006" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0007" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0008" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby left0009" x="3163" y="10" width="306" height="479" frameX="-2" frameY="0" frameWidth="310" frameHeight="479"/>
+	<SubTexture name="toby right0000" x="3479" y="10" width="386" height="500" frameX="-1" frameY="0" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0001" x="3479" y="10" width="386" height="500" frameX="-1" frameY="0" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0002" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0003" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0004" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0005" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0006" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0007" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby right0008" x="10" y="520" width="373" height="495" frameX="0" frameY="-5" frameWidth="387" frameHeight="500"/>
+	<SubTexture name="toby shoot0000" x="393" y="520" width="745" height="485" frameX="-1" frameY="-1" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0001" x="1148" y="520" width="833" height="485" frameX="-1" frameY="-1" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0002" x="1991" y="520" width="911" height="486" frameX="0" frameY="0" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0003" x="2912" y="520" width="944" height="486"/>
+	<SubTexture name="toby shoot0004" x="10" y="1025" width="884" height="486" frameX="0" frameY="0" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0005" x="904" y="1025" width="527" height="486" frameX="0" frameY="0" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0006" x="1441" y="1025" width="525" height="486" frameX="0" frameY="0" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby shoot0007" x="1441" y="1025" width="525" height="486" frameX="0" frameY="0" frameWidth="944" frameHeight="486"/>
+	<SubTexture name="toby up0000" x="1976" y="1025" width="349" height="499" frameX="-1" frameY="0" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0001" x="1976" y="1025" width="349" height="499" frameX="-1" frameY="0" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0002" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0003" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0004" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0005" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0006" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0007" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+	<SubTexture name="toby up0008" x="2335" y="1025" width="363" height="495" frameX="0" frameY="-4" frameWidth="363" frameHeight="499"/>
+</TextureAtlas>

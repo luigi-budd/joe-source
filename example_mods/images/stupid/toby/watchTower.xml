@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watchTower.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week 7 watch tower0000" x="10" y="10" width="350" height="586" frameX="0" frameY="-4" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0001" x="10" y="10" width="350" height="586" frameX="0" frameY="-4" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0002" x="370" y="10" width="348" height="588" frameX="-1" frameY="-2" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0003" x="370" y="10" width="348" height="588" frameX="-1" frameY="-2" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0004" x="728" y="10" width="348" height="589" frameX="-1" frameY="-1" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0005" x="728" y="10" width="348" height="589" frameX="-1" frameY="-1" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0006" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0007" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0008" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0009" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0010" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0011" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0012" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+	<SubTexture name="week 7 watch tower0013" x="1086" y="10" width="348" height="590" frameX="-1" frameY="0" frameWidth="350" frameHeight="590"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Testing Testing",
+			"joeNew",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"Default Reverb",
+			"joeNew",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"Angry Bass",
+			"tantrum",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "joeStudio",
+	"difficulties": "Canon",
+	"weekCharacters": [
+		"joe",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vocaloid Tryouts",
+	"weekName": "Session 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
